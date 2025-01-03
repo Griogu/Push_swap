@@ -1,72 +1,72 @@
 [
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "exec.o", "exec.c"],
 	"file": "exec.c",
 	"output": "exec.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "parsing.o", "parsing.c"],
 	"file": "parsing.c",
 	"output": "parsing.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "error_free.o", "error_free.c"],
 	"file": "error_free.c",
 	"output": "error_free.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "duplicate_is_sort.o", "duplicate_is_sort.c"],
 	"file": "duplicate_is_sort.c",
 	"output": "duplicate_is_sort.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "swap.o", "swap.c"],
 	"file": "swap.c",
 	"output": "swap.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "push.o", "push.c"],
 	"file": "push.c",
 	"output": "push.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "rotate.o", "rotate.c"],
 	"file": "rotate.c",
 	"output": "rotate.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "reverse_rotate.o", "reverse_rotate.c"],
 	"file": "reverse_rotate.c",
 	"output": "reverse_rotate.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "sort.o", "sort.c"],
 	"file": "sort.c",
 	"output": "sort.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "sort_utils.o", "sort_utils.c"],
 	"file": "sort_utils.c",
 	"output": "sort_utils.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "sort_three.o", "sort_three.c"],
 	"file": "sort_three.c",
 	"output": "sort_three.o"
 },
 {
-	"directory": "/nfs/homes/mpendilh/Documents/cursus/push_swap",
+	"directory": "/nfs/homes/mpendilh/Documents/perso/Push_swap",
 	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "-o", "sort_five.o", "sort_five.c"],
 	"file": "sort_five.c",
 	"output": "sort_five.o"
